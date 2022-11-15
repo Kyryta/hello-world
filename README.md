@@ -1,2 +1,5 @@
 # hello-world
 Primer repositorio de practica
+Este es mi primer repositorio del curso. Es una práctica facil. 
+Puestos a hacer una descripcion lo primero aclarar que precisamente odio describirme asi que voy a ensalzar mi odio a Java. Si, le tengo un odio visceral y no, no es culpa de la UNED. Cuando tenia 13 años fui a una academia y me apunte a programación. Alli descubrí las maravillas de C. Recuerdo que al principio creia que Bordland C era el nombre del lenguaje xD. Me divertí bastante en las clases.  Luego un poco antes de la prueba de acceso a la universidad vi Java y... como se suele decir, diferencias irreconciliables. Todos diciendo que Java era mejor. Luego en la Uned la cosa se calmo. Hay dos asignaturas en el segundo cuatrimestre de primero que llevan Java. Por suerte en mi CA explican bien :). El unico motivo por que no detallo por que odio Java es porque me podria tirar dias aqui... y no quiero. Asi que para que quede bien claro... ¡¡¡ODIO JAVA!!!
+"Divagaciones sobre mi odio a JAVA" por B.V.
